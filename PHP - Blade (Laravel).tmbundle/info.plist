@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>xraaba@xraabao.zr</string>
+	<key>contactName</key>
+	<string>Kennon Bickhart</string>
+	<key>description</key>
+	<string>Syntax highlighting, and snippets, for Laravel's Blade syntax.</string>
+	<key>name</key>
+	<string>PHP - Blade (Laravel)</string>
+	<key>uuid</key>
+	<string>66B12A70-2AED-4849-866E-22C4A0EEDC0C</string>
+</dict>
+</plist>

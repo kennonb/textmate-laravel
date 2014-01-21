@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{{ ${1:var${2: or '${3:Default Value}'}} }}}</string>
+	<key>name</key>
+	<string>{{{ $var }}}</string>
+	<key>scope</key>
+	<string>text.html.laravel-blade</string>
+	<key>tabTrigger</key>
+	<string>}}}</string>
+	<key>uuid</key>
+	<string>4DFD53EB-B98C-4D07-9B45-DC8C72F55830</string>
+</dict>
+</plist>
